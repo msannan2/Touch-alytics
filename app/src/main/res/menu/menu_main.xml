@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.triborg.ai_project.MainActivity">
+    <item
+        android:id="@+id/action_Authenticate"
+        android:orderInCategory="100"
+        android:title="@string/action_Authenticate"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_DataEntry"
+        android:orderInCategory="100"
+        android:title="@string/action_DataEntry"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Exit"
+        android:orderInCategory="100"
+        android:title="@string/action_Exit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_User"
+        android:orderInCategory="100"
+        android:title="@string/action_User"
+        app:actionViewClass="android.widget.Spinner"
+        app:showAsAction="always" />
+
+</menu>

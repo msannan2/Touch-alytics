@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AI-Project</string>
+    <string name="action_Authenticate">Authentication</string>
+    <string name="action_DataEntry">Data Collection</string>
+    <string name="action_Exit">Exit</string>
+    <string name="action_User">User</string>
+    <string name="title_activity_data_collection2">DataCollection2</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
