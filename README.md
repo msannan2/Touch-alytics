@@ -259,7 +259,7 @@ owner or some guest user.
 
 Fig [11] User Modes
 
-![](![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig12.png))
+![](![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig12.jpg))
 
 ![](![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig13.png))
 
