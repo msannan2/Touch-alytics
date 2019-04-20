@@ -48,7 +48,7 @@ The data was collected from 20 users all given similar android smartphones with
 stock version of android to makes changes to the application framework layer of
 Android OS.
 
-![](media/5c2b67f43b9eda47a7e8371fe5ea4405.png)
+![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig1.png)
 
 The author suggests that a user performs relatively more touch inputs in a
 particular direction. This is illustrated in Fig [1]
@@ -109,7 +109,7 @@ Table 1. Features extracted from touch input.
 | TouchMinor        | Using getTouchMinor()                                                                                                                                       |
 | Touch Coordinates | GetX() and GetY() methods to get X, Y coordinates respectively.                                                                                             |
 
-![](media/ab4e55400b7377874504e8d1b86190bd.png)
+![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig2.png)
 
 A sample of the data is shown in Fig [2]
 
@@ -150,13 +150,13 @@ Bayes Classifier.
 
 1.  **KNN Classification Results**
 
-![](media/81a86dd5665b9fa6dbf49aefc1c1ed14.png)
+![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig3.png)
 
 **Fig[3]** Confusion matrix for KNN Classifier
 
-![](media/b37d68283a1cf4275aa3fde4fc437762.png)
+![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig4.png)
 
-![](media/51df9adb004fe568710a1f6e91f4e517.png)
+![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig5.png)
 
 **Fig[4]** Classification Report for KNN Classifier
 
@@ -165,23 +165,24 @@ Bayes Classifier.
 Using Grid Search Cross Validation, we have found the optimal value of *k* for
 our dataset is *k*=19.
 
-![](media/61f7f0fef2466c8b80c26acff723d924.png)
+![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig6.png)
 
 **Random Forest Classifier Results**
 
 **Fig[6]** Confusion Matrix for RandomForest Classifier
 
-![](media/9ffa305e2ce6c4d135e1a38b948923f0.png)
+![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig7.png)
 
-![](media/a27cf29f42434af9e59363b07ac009da.png)
 
 **Fig[7]** Classification Report for RandomForest Classifier.
+
+![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig8.png)
 
 **Fig[8]** Accuracy for varying number of estimators
 
 1.  **Naïve Bayes Classifier Results**
 
-![](media/2fb985adad7a390b001d2d56966499e5.png)
+![](![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig9.png))
 
 **Fig[9]** Confusion Matrix for Naïve Bayes Classifier
 
@@ -225,12 +226,12 @@ The dataset includes the following features.
 
 -   Finger orientation
 
-![](media/c8232d01abe7fcd6e20736063d3d42f0.png)
+![](![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig10.png))
 
 After HyperParameter Tuning we have shortlisted the following features that can
 be used to classify behavioural analytics.
 
-![](media/0bcc7f7ee7aea53d2c758bc832f80461.png)
+![](![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig11.png))
 
 **Fig[10]** Features selected after hyperparameter tuning.
 
@@ -258,13 +259,13 @@ owner or some guest user.
 
 Fig [11] User Modes
 
-![](media/7d961507e4db0a4bc51b309689175ec6.jpg)
+![](![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig12.png))
 
-![](media/99d370ba970551abdf8abd4c63c36368.png)
+![](![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig13.png))
 
 Fig [12] Data Collection Activity 1
 
-![](media/3900b530c294ce67af93fb94c91922dd.png)
+![](![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig14.png))
 
 Fig [12] Data Collection Activity 2
 
@@ -277,7 +278,7 @@ Using methods from the motion event class on Android.
 The touch data is directly stored to a CSV file within the device Our classifier
 then uses CSV files to classify users.
 
-![](media/22780f6b70a59d789f2a0d10ee589081.png)
+![](![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig15.png))
 
 Fig [13] Data Collected Through Mobile Application
 
@@ -286,7 +287,7 @@ Fig [13] Data Collected Through Mobile Application
 The final product is an android that can recognize a user based on the stored
 data set.
 
-![](media/a0ff5a24a07c818e3ac92dfbf0f55bff.png)
+![](![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig16.png))
 
 There is a mode in the app that indicate which user is using phone by
 classifying using Knn classifier function.
