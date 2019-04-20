@@ -154,7 +154,7 @@ Bayes Classifier.
 
 **Fig[3]** Confusion matrix for KNN Classifier
 
-![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig4.png)
+![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig4.1.png)
 
 ![](https://github.com/msannan2/Touch_Analytics/blob/master/Images/fig5.png)
 
